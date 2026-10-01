@@ -1,0 +1,31 @@
+name: Validate content
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python scripts/validate_pack.py
+      - name: Require a higher version when published content changes
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          python - <<'PY'
+          import json, os, subprocess
+          changed = subprocess.check_output(['git', 'diff', '--name-only', os.environ['BASE_SHA'], 'HEAD', '--', 'memory-gallery/']).decode().strip()
+          if changed:
+              old = json.loads(subprocess.check_output(['git', 'show', os.environ['BASE_SHA'] + ':memory-gallery/pack.json']))
+              new = json.load(open('memory-gallery/pack.json'))
+              assert new['contentVersion'] > old['contentVersion'], 'Increase contentVersion for a content change'
+          PY
