@@ -16,6 +16,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/validate_pack.py
+      - run: python scripts/validate_ios_catalog.py
       - name: Require a higher version when published content changes
         if: github.event_name == 'pull_request'
         env:
@@ -28,4 +29,11 @@ jobs:
               old = json.loads(subprocess.check_output(['git', 'show', os.environ['BASE_SHA'] + ':memory-gallery/pack.json']))
               new = json.load(open('memory-gallery/pack.json'))
               assert new['contentVersion'] > old['contentVersion'], 'Increase contentVersion for a content change'
+          changed_ios = subprocess.check_output(['git', 'diff', '--name-only', os.environ['BASE_SHA'], 'HEAD', '--', 'ios/']).decode().strip()
+          if changed_ios:
+              previous = subprocess.run(['git', 'show', os.environ['BASE_SHA'] + ':ios/catalog.json'], capture_output=True)
+              new = json.load(open('ios/catalog.json'))
+              if previous.returncode == 0:
+                  old = json.loads(previous.stdout)
+                  assert new['contentVersion'] > old['contentVersion'], 'Increase iOS contentVersion for a content change'
           PY

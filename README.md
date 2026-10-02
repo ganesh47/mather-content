@@ -37,3 +37,27 @@ Limits: 4–250 cards per deck, unique card IDs, 1–12 facts per card, required
 ## Credits and rights
 
 `memory-gallery/attribution.json` preserves the original sources, creators, credit lines, usage terms, and transformations for supplied images, including NASA-hosted planetary imagery. This repository's public visibility does not grant a blanket license over all content. Project-owned content remains the owner's property; third-party imagery retains its stated source terms. No license is granted beyond those terms.
+
+## iOS learning catalog
+
+The separate iOS feed is `ios/catalog.json`, schema 1, content version 2:
+https://raw.githubusercontent.com/ganesh47/mather-content/main/ios/catalog.json
+
+It includes all eleven Memory decks and seven reusable topic threads. The TV
+`memory-gallery/pack.json` feed keeps its existing four-deck schema unchanged.
+Both clients validate content and artwork before caching; iOS activates updates
+between activities and freezes active session content. Bundled or last-valid
+content remains usable offline. New mechanics still require an app update.
+
+To publish an iOS correction, preserve entity/property/card IDs, increase
+`contentVersion`, supply PNG hash/size and attribution for artwork, and run
+`python3 scripts/validate_ios_catalog.py`. CI checks both feeds and requires a
+version increase. Publish immutable `ios-content-vN` tags for historical versions.
+Facts require editorial review; structural validation does not prove accuracy.
+
+The initial iOS catalog references 36 existing bird illustrations and eight
+existing circuit vectors bundled with compatible apps. Those files are not
+republished in this pack because the original bird-sheet attribution is not
+recorded and the circuit illustrations are code-shipped vectors. A later pack
+can override these IDs with attributed, hash-verified PNGs. Other PNG artwork
+ships with complete attribution in `ios/attribution.json`.
