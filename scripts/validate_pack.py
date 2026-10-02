@@ -20,13 +20,13 @@ def text(value):
     return isinstance(value, str) and bool(value.strip()) and len(value) <= 500
 
 
-def validate(path, rehash=False):
+def validate(path, rehash=False, *, required_decks=DECKS, bundled_assets=frozenset()):
     require(path.stat().st_size <= 5_000_000, "Manifest exceeds 5 MB")
     pack = json.loads(path.read_text())
     require(pack["schemaVersion"] == 1, "Unsupported schema")
     require(type(pack["contentVersion"]) is int and pack["contentVersion"] > 1, "Published version must exceed bundled version 1")
     decks = pack["decks"]
-    require(len(decks) == 4 and {d["kind"] for d in decks} == DECKS, "Expected four distinct gallery decks")
+    require(len(decks) == len(required_decks) and {d["kind"] for d in decks} == required_decks, "Expected every supported deck exactly once")
     assets = pack["assets"]
     require(len(assets) <= 200, "Too many assets")
     asset_ids = set()
@@ -71,7 +71,7 @@ def validate(path, rehash=False):
             picture = card["picture"]
             require(picture["kind"] in {"asset", "emoji", "text"} and text(picture["value"]), f"Invalid picture: {name}")
             if picture["kind"] == "asset":
-                require(picture["value"] in asset_ids, f"Missing artwork: {name}")
+                require(picture["value"] in asset_ids | bundled_assets, f"Missing artwork: {name}")
             artwork = card["learningArtwork"]
             require(len(artwork) <= 4 and all(text(a["title"]) and a["assetName"] in asset_ids for a in artwork), f"Invalid learning artwork: {name}")
     credits = json.loads((path.parent / "attribution.json").read_text())
