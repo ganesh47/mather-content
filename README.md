@@ -8,7 +8,7 @@ The app checks this stable URL when entering the gallery chooser:
 
 https://raw.githubusercontent.com/ganesh47/mather-content/main/memory-gallery/pack.json
 
-JSON and its PNGs live together in `memory-gallery/`. The initial release is content version **2**, schema version **1**, with **76 cards and 82 images**. Installed apps validate hashes and cache complete packs for offline use. No API token is required.
+JSON and its PNGs live together in `memory-gallery/`. The current candidate is content version **3**, schema version **1**, with **76 cards and 100 images**. Installed apps validate hashes and cache complete packs for offline use. No API token is required.
 
 Historical releases use tags such as `memory-gallery-v2`. Use the tag in place of `main` in the raw URL to retrieve a fixed release. Keep published tags unchanged. The app's main-branch URL receives later versions automatically.
 
@@ -40,7 +40,7 @@ Limits: 4–250 cards per deck, unique card IDs, 1–12 facts per card, required
 
 ## iOS learning catalog
 
-The separate iOS feed is `ios/catalog.json`, schema 1, content version 2:
+The separate iOS feed is `ios/catalog.json`, schema 1, content version 3:
 https://raw.githubusercontent.com/ganesh47/mather-content/main/ios/catalog.json
 
 It includes all eleven Memory decks and seven reusable topic threads. The TV
@@ -55,9 +55,13 @@ To publish an iOS correction, preserve entity/property/card IDs, increase
 version increase. Publish immutable `ios-content-vN` tags for historical versions.
 Facts require editorial review; structural validation does not prove accuracy.
 
-The initial iOS catalog references 36 existing bird illustrations and eight
-existing circuit vectors bundled with compatible apps. Those files are not
-republished in this pack because the original bird-sheet attribution is not
-recorded and the circuit illustrations are code-shipped vectors. A later pack
-can override these IDs with attributed, hash-verified PNGs. Other PNG artwork
-ships with complete attribution in `ios/attribution.json`.
+Version 3 supplies 160 attributed PNGs, including the reviewed Memory animal,
+bird, fruit and fish artwork and spoken discovery facts. Eight circuit vectors
+remain bundled with compatible apps. Card, entity, property and stage IDs remain
+stable. Previously published PNG files remain available for in-flight downloads.
+
+The TV artwork is 37.6 MB and the iOS artwork is 82.3 MB, within the existing
+100 MB client limit. Larger iOS illustrations use PNG derivatives with a maximum
+dimension of 1024 pixels; attribution records retain original hashes and record
+the actual derivative hash and resize. Full-resolution originals remain in the
+app asset catalog. Existing published asset IDs retain their original bytes.

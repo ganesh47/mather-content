@@ -1,6 +1,336 @@
 {
   "assets" : [
     {
+      "byteCount" : 1138916,
+      "file" : "CompareCampApple.png",
+      "id" : "CompareCampApple",
+      "sha256" : "d9681526e0c17c981e9a73e8b972f9f020d5dd9c709f28e62feebd36ef84744d"
+    },
+    {
+      "byteCount" : 459749,
+      "file" : "CompareCampFlamingo.png",
+      "id" : "CompareCampFlamingo",
+      "sha256" : "dc1bc8881463e4ff1e31c922325f77bd963d2541a46104e55d014bf634e6a8c8"
+    },
+    {
+      "byteCount" : 831840,
+      "file" : "CompareCampMacaw.png",
+      "id" : "CompareCampMacaw",
+      "sha256" : "32699d5db89327f098afb9bc727bd16abda8c6eadefa01a042c970ec6bf85eaf"
+    },
+    {
+      "byteCount" : 1769804,
+      "file" : "CompareCampPeafowl.png",
+      "id" : "CompareCampPeafowl",
+      "sha256" : "a55f21367ea4e97c2ef1aebdfa1247ebfe3abe77bfc5fe59aca69df1550d8143"
+    },
+    {
+      "byteCount" : 764948,
+      "file" : "CompareCampPuffin.png",
+      "id" : "CompareCampPuffin",
+      "sha256" : "e8340ddb3db6a53c72c0989816d26180edd907d6c5e524e111f1e77601a89356"
+    },
+    {
+      "byteCount" : 1061041,
+      "file" : "CompareCampSheep.png",
+      "id" : "CompareCampSheep",
+      "sha256" : "1b37fac755453063bb44249fb6fb537fd3d0f614a77849aef2d5ba029230ba04"
+    },
+    {
+      "byteCount" : 953202,
+      "file" : "MemoryAnimalCamel.png",
+      "id" : "MemoryAnimalCamel",
+      "sha256" : "896871a9cb63605a23e054de84d8fd0edbb82200d580f0baa5a2e92ec27ae3c1"
+    },
+    {
+      "byteCount" : 1130841,
+      "file" : "MemoryAnimalCat.png",
+      "id" : "MemoryAnimalCat",
+      "sha256" : "c9f489f3a09d03a56ea334a7ebbeba401fa1fab2a03eb89c4fe164f888e20309"
+    },
+    {
+      "byteCount" : 1073964,
+      "file" : "MemoryAnimalCow.png",
+      "id" : "MemoryAnimalCow",
+      "sha256" : "ed09ab218dd5671b48c3088be6dd512e36629cc54613db60aad31dba251d8d2f"
+    },
+    {
+      "byteCount" : 1112272,
+      "file" : "MemoryAnimalDog.png",
+      "id" : "MemoryAnimalDog",
+      "sha256" : "0f1ec76fefd7fa653e90be161c5a8983f981ea67e091634813cbe6e9f33f9514"
+    },
+    {
+      "byteCount" : 191895,
+      "file" : "MemoryAnimalDonkey.png",
+      "id" : "MemoryAnimalDonkey",
+      "sha256" : "d4bc867e4cb669435c5583090e209c874436561f574541c13b221e889661c6ac"
+    },
+    {
+      "byteCount" : 853291,
+      "file" : "MemoryAnimalDuck.png",
+      "id" : "MemoryAnimalDuck",
+      "sha256" : "f5f996b19f2376844d74454515700384f59d46f35a74293b45c8c8e1833e8bb1"
+    },
+    {
+      "byteCount" : 1195742,
+      "file" : "MemoryAnimalFrog.png",
+      "id" : "MemoryAnimalFrog",
+      "sha256" : "43dc6d617e524bd9d42de1c4b52859e7662df6d1583a0bd44b3e084268bc335c"
+    },
+    {
+      "byteCount" : 1010057,
+      "file" : "MemoryAnimalGoat.png",
+      "id" : "MemoryAnimalGoat",
+      "sha256" : "acd096cf06b7b18ad92999a55c12d865a80d61cf4bbe3743492f7af3a7e49074"
+    },
+    {
+      "byteCount" : 1070736,
+      "file" : "MemoryAnimalGoldfish.png",
+      "id" : "MemoryAnimalGoldfish",
+      "sha256" : "6a39eab759584f7fb7f899768f4dbcfb6bd47bd97e084343dd327788a2c27e39"
+    },
+    {
+      "byteCount" : 837978,
+      "file" : "MemoryAnimalHorse.png",
+      "id" : "MemoryAnimalHorse",
+      "sha256" : "44644c93da9b69ece974ab29086909fcf8a58e95c1dfc2b3d58741afc0ef7563"
+    },
+    {
+      "byteCount" : 798042,
+      "file" : "MemoryAnimalLlama.png",
+      "id" : "MemoryAnimalLlama",
+      "sha256" : "1cd574de53b0023486c99fa2457e2fb78344fa54d37e680f936d1235d2b6f8e6"
+    },
+    {
+      "byteCount" : 979069,
+      "file" : "MemoryAnimalMouse.png",
+      "id" : "MemoryAnimalMouse",
+      "sha256" : "eab5410ea66d1efd96bd2f1cdf51270527d9c2040c0e0f4027d46210b1f2ed4a"
+    },
+    {
+      "byteCount" : 1136662,
+      "file" : "MemoryAnimalOx.png",
+      "id" : "MemoryAnimalOx",
+      "sha256" : "b55c131ccd324d4dcf016b73e8c59ce02993dab59dbd6536e7d03fa5ff040f89"
+    },
+    {
+      "byteCount" : 851429,
+      "file" : "MemoryAnimalPig.png",
+      "id" : "MemoryAnimalPig",
+      "sha256" : "a98b5b3ad84fccd3896d8dfe1abe2c412ce9912816890bb01b73d46100be328f"
+    },
+    {
+      "byteCount" : 767732,
+      "file" : "MemoryAnimalRabbit.png",
+      "id" : "MemoryAnimalRabbit",
+      "sha256" : "89c3cb66ef59ae81680a42876519947b24088724514ceaff5bc4d8c18a25b9c6"
+    },
+    {
+      "byteCount" : 1077952,
+      "file" : "MemoryAnimalRooster.png",
+      "id" : "MemoryAnimalRooster",
+      "sha256" : "b40792e5769fc741dabf63264a6b07f6257f66eca50d8d2805460105e02ec239"
+    },
+    {
+      "byteCount" : 1114252,
+      "file" : "MemoryAnimalTurkey.png",
+      "id" : "MemoryAnimalTurkey",
+      "sha256" : "91823ea21fdac0b3bdce7fc82f933d0ac7e891d724bba23f638789860e66a1a8"
+    },
+    {
+      "byteCount" : 835833,
+      "file" : "MemoryBirdCleanA02.png",
+      "id" : "MemoryBirdCleanA02",
+      "sha256" : "0c1327388a24e67869cde369829df528308a1d7ea48974a16d05d72542857e6f"
+    },
+    {
+      "byteCount" : 816150,
+      "file" : "MemoryBirdCleanA03.png",
+      "id" : "MemoryBirdCleanA03",
+      "sha256" : "6230c939e64937533287315a01bd5b5208b138670332fca94e47db5beecdb86a"
+    },
+    {
+      "byteCount" : 886710,
+      "file" : "MemoryBirdCleanA04.png",
+      "id" : "MemoryBirdCleanA04",
+      "sha256" : "7528e858db06c11339fe8eeb8f62087fb3c97b7af80a0b3a8d2b8f5adcaf1f8f"
+    },
+    {
+      "byteCount" : 935484,
+      "file" : "MemoryBirdCleanA05.png",
+      "id" : "MemoryBirdCleanA05",
+      "sha256" : "50f58b6f5512af7cffb97a4217c984d70e1aca8ce5d59c6164cbfb607db9560c"
+    },
+    {
+      "byteCount" : 1019347,
+      "file" : "MemoryBirdCleanA06.png",
+      "id" : "MemoryBirdCleanA06",
+      "sha256" : "3919d2bde7523879ee48182d3ef1d67342ba0ae31c4cd188c567763ed8196c1b"
+    },
+    {
+      "byteCount" : 871972,
+      "file" : "MemoryBirdCleanA07.png",
+      "id" : "MemoryBirdCleanA07",
+      "sha256" : "973b0dc3287ce5c13911f9c79026b5e607b27e8937acebf79c316f942a8a8041"
+    },
+    {
+      "byteCount" : 852823,
+      "file" : "MemoryBirdCleanA08.png",
+      "id" : "MemoryBirdCleanA08",
+      "sha256" : "0d893b61ae94893c1c557cb35d28934fe27b25e2510185b60232b0d372332677"
+    },
+    {
+      "byteCount" : 873847,
+      "file" : "MemoryBirdCleanA09.png",
+      "id" : "MemoryBirdCleanA09",
+      "sha256" : "0a9b6d73ba94518fb27da1b60f12ea9755995390728e9c10ceffc5064b63aac2"
+    },
+    {
+      "byteCount" : 973736,
+      "file" : "MemoryBirdCleanA10.png",
+      "id" : "MemoryBirdCleanA10",
+      "sha256" : "21992ce3e2ee7e9f85f0f4104eb34e46a01b5cc933b3de254b74412caf8d6fd9"
+    },
+    {
+      "byteCount" : 861665,
+      "file" : "MemoryBirdCleanA11.png",
+      "id" : "MemoryBirdCleanA11",
+      "sha256" : "165448d525d5bb719511d35efc20869e2fd0b02b5db20dd3c962d950272c2da4"
+    },
+    {
+      "byteCount" : 1175697,
+      "file" : "MemoryBirdCleanA13.png",
+      "id" : "MemoryBirdCleanA13",
+      "sha256" : "1dbf8bd7b667717323de20cb6e1909c1b4c3651405a6fdb30e9fa2bbeba3e9d3"
+    },
+    {
+      "byteCount" : 857444,
+      "file" : "MemoryBirdCleanA14.png",
+      "id" : "MemoryBirdCleanA14",
+      "sha256" : "71bba5e67afb9c22348f3410087b2eb9fab565aa2ea511e9c2d359cb7912cbaa"
+    },
+    {
+      "byteCount" : 971326,
+      "file" : "MemoryBirdCleanA15.png",
+      "id" : "MemoryBirdCleanA15",
+      "sha256" : "44a98df5e5e3220dccaa910d2737719d9f3014645ef3a9c765abea605c38aa52"
+    },
+    {
+      "byteCount" : 854073,
+      "file" : "MemoryBirdCleanA16.png",
+      "id" : "MemoryBirdCleanA16",
+      "sha256" : "9e4791df8bf741b8540b16061440257a173728a13bcb7d850d74545dac8cd011"
+    },
+    {
+      "byteCount" : 983198,
+      "file" : "MemoryBirdCleanA17.png",
+      "id" : "MemoryBirdCleanA17",
+      "sha256" : "bf6b3e534147ebac31a56c6020c6b418ff4cba71d923d7fe026c609bf48b632f"
+    },
+    {
+      "byteCount" : 628755,
+      "file" : "MemoryBirdCleanA18.png",
+      "id" : "MemoryBirdCleanA18",
+      "sha256" : "7c4125ccb66140983ed94fd35173235783bff8b8468c2ce5907a96f7c05705ea"
+    },
+    {
+      "byteCount" : 914913,
+      "file" : "MemoryBirdCleanB01.png",
+      "id" : "MemoryBirdCleanB01",
+      "sha256" : "6a3193ef333dbbb7f51b818e0052c1b754884d253218c5040dc6b77e6cf69c43"
+    },
+    {
+      "byteCount" : 685636,
+      "file" : "MemoryBirdCleanB02.png",
+      "id" : "MemoryBirdCleanB02",
+      "sha256" : "dded3a28a65ce617c227176540cb0b8acd65a4c78f0878ecfb1072cb84827ed9"
+    },
+    {
+      "byteCount" : 923706,
+      "file" : "MemoryBirdCleanB03.png",
+      "id" : "MemoryBirdCleanB03",
+      "sha256" : "475e56a8066da8865bbc5ca5e5c5210ef002f905c092872bc664d0a567a33b6a"
+    },
+    {
+      "byteCount" : 954854,
+      "file" : "MemoryBirdCleanB04.png",
+      "id" : "MemoryBirdCleanB04",
+      "sha256" : "13bb0a6db174b57d412a843ec4b91a395e7aa5ef52dc80fb87e8f9307f0df0db"
+    },
+    {
+      "byteCount" : 878743,
+      "file" : "MemoryBirdCleanB05.png",
+      "id" : "MemoryBirdCleanB05",
+      "sha256" : "05af9da73038de3fe2979e59207122c8b6f4fdda707deb6cc39ad1ecfaeaf4de"
+    },
+    {
+      "byteCount" : 1088500,
+      "file" : "MemoryBirdCleanB06.png",
+      "id" : "MemoryBirdCleanB06",
+      "sha256" : "f6bf04f37d52085cb66c240b597074adf826482089e7523d4284934643e6b135"
+    },
+    {
+      "byteCount" : 881309,
+      "file" : "MemoryBirdCleanB07.png",
+      "id" : "MemoryBirdCleanB07",
+      "sha256" : "70d6e1120d8bbf88e185814264492b5ee0efba9649fe3bf1a03cb72fdb8f1776"
+    },
+    {
+      "byteCount" : 983920,
+      "file" : "MemoryBirdCleanB08.png",
+      "id" : "MemoryBirdCleanB08",
+      "sha256" : "3b76feab3a12066db561e08462e1e0686df3c23b9827d150eef109ca092680b0"
+    },
+    {
+      "byteCount" : 1350115,
+      "file" : "MemoryBirdCleanB09.png",
+      "id" : "MemoryBirdCleanB09",
+      "sha256" : "d709786cde28b62d7ded475a289a278db2a57f7c8b92e9be346441cdfd219e6b"
+    },
+    {
+      "byteCount" : 813858,
+      "file" : "MemoryBirdCleanB10.png",
+      "id" : "MemoryBirdCleanB10",
+      "sha256" : "bd543e6dd467ddba464aebbb0de746427a30c8bd82b4bbeb06bdbbfcc3ebdb51"
+    },
+    {
+      "byteCount" : 950429,
+      "file" : "MemoryBirdCleanB12.png",
+      "id" : "MemoryBirdCleanB12",
+      "sha256" : "f275aa2228cd883d5631f2b6b3d3755ddf28af00536052f3a643f6f57d3fc99e"
+    },
+    {
+      "byteCount" : 677341,
+      "file" : "MemoryBirdCleanB13.png",
+      "id" : "MemoryBirdCleanB13",
+      "sha256" : "fd54c543f56f7b8d40ee90e47f9c73b4eb7a17d91442deb8b73061c324616e93"
+    },
+    {
+      "byteCount" : 840142,
+      "file" : "MemoryBirdCleanB14.png",
+      "id" : "MemoryBirdCleanB14",
+      "sha256" : "10c48b797c023c12f8302097820192f4fa643e9ee6e7aa727aa0e4640ab90032"
+    },
+    {
+      "byteCount" : 1155162,
+      "file" : "MemoryBirdCleanB15.png",
+      "id" : "MemoryBirdCleanB15",
+      "sha256" : "52dc0423c38f230cef5150123f72db3d230e6fb20911fc124c6f5bb0eba4c5eb"
+    },
+    {
+      "byteCount" : 848625,
+      "file" : "MemoryBirdCleanB17.png",
+      "id" : "MemoryBirdCleanB17",
+      "sha256" : "4679aff9719b993517e6f5f341ffb403e92ad904e7db4ec1fba441875c84c98b"
+    },
+    {
+      "byteCount" : 759208,
+      "file" : "MemoryBirdCleanB18.png",
+      "id" : "MemoryBirdCleanB18",
+      "sha256" : "c5bf3f4189d924f572a08930992868a90e3d27bd7c37d4e73d06e859e0ecb450"
+    },
+    {
       "byteCount" : 13667,
       "file" : "MemoryCurrencyAustralia.png",
       "id" : "MemoryCurrencyAustralia",
@@ -97,52 +427,52 @@
       "sha256" : "99637fe4464553aa4d7d4e73ae96734be316c94681e36d97eff52944d2c1dd34"
     },
     {
-      "byteCount" : 72442,
-      "file" : "MemoryFishAngelfish.png",
-      "id" : "MemoryFishAngelfish",
-      "sha256" : "8da0cff35ded5222747f099b3ca785719c9700c17514aa2f69fd3ff5b5b904c6"
+      "byteCount" : 1112860,
+      "file" : "MemoryFishAngelfishStorybook.png",
+      "id" : "MemoryFishAngelfishStorybook",
+      "sha256" : "9646c353def1b52f938a517f144a94040832d10d6aef6d320ab8a5317a2f4b87"
     },
     {
-      "byteCount" : 66461,
-      "file" : "MemoryFishBetta.png",
-      "id" : "MemoryFishBetta",
-      "sha256" : "32da3532b489e9c7d20394cec5b99897c2011cc2a92809ced0b249d74e1aa200"
+      "byteCount" : 1447607,
+      "file" : "MemoryFishBettaStorybook.png",
+      "id" : "MemoryFishBettaStorybook",
+      "sha256" : "9392c310e0bde9a3ff74c43546e4482fde4f5035886c662a73b04f89d13d4634"
     },
     {
-      "byteCount" : 55817,
-      "file" : "MemoryFishCatfish.png",
-      "id" : "MemoryFishCatfish",
-      "sha256" : "e2d712233b9fd1d4f5fa5d3c167329d19784fb72784ce062ee8231cc7e19a1fe"
+      "byteCount" : 1001170,
+      "file" : "MemoryFishCatfishStorybook.png",
+      "id" : "MemoryFishCatfishStorybook",
+      "sha256" : "2cc49d6b773887f761a0e3fd4c816b1f74da28ac642dc87f481e8d83f3b2a6a6"
     },
     {
-      "byteCount" : 65481,
-      "file" : "MemoryFishClownfish.png",
-      "id" : "MemoryFishClownfish",
-      "sha256" : "994003f9911cd64dae9b0b788918a64ca4bf0a9ca8c2889ecb9dfca6903d9c6b"
+      "byteCount" : 664165,
+      "file" : "MemoryFishClownfishStorybook.png",
+      "id" : "MemoryFishClownfishStorybook",
+      "sha256" : "db8d961e8ba848209286774747de0b4272cbcdc5f3dc7caa804682116ce56ed0"
     },
     {
-      "byteCount" : 59280,
-      "file" : "MemoryFishGoldfish.png",
-      "id" : "MemoryFishGoldfish",
-      "sha256" : "03e5d0f461f714cff979eba3c154b3f1012f8880c88fca509cdabeb74ddc4dde"
+      "byteCount" : 1035093,
+      "file" : "MemoryFishGoldfishStorybook.png",
+      "id" : "MemoryFishGoldfishStorybook",
+      "sha256" : "cc52a85449272e38ab3cdae6a92f240f841096982e50da8d44fba079f7d56207"
     },
     {
-      "byteCount" : 68577,
-      "file" : "MemoryFishSeahorse.png",
-      "id" : "MemoryFishSeahorse",
-      "sha256" : "90a58259c3a44be96017c86b1d4a165fc507ba24d9baf2c53b9dad23c1ff50a0"
+      "byteCount" : 798087,
+      "file" : "MemoryFishSeahorseStorybook.png",
+      "id" : "MemoryFishSeahorseStorybook",
+      "sha256" : "8f90ee76e96db7d90959e3b6f6b43459fbc264a7e0a2927730604dc7414a8e8b"
     },
     {
-      "byteCount" : 54418,
-      "file" : "MemoryFishSwordtail.png",
-      "id" : "MemoryFishSwordtail",
-      "sha256" : "decdde0bb9874d8d7b5f3c07c544f342dd339c69c42f135eee8f134a1ea18a19"
+      "byteCount" : 540590,
+      "file" : "MemoryFishSwordtailStorybook.png",
+      "id" : "MemoryFishSwordtailStorybook",
+      "sha256" : "86b793cc532640a845854d6b4c288e610d50a342d8dbc2456e4f2f80cfdaf64a"
     },
     {
-      "byteCount" : 61514,
-      "file" : "MemoryFishTuna.png",
-      "id" : "MemoryFishTuna",
-      "sha256" : "d9716931aba86201236c724311c5b8fae07b6dca705ca059cd9c7247b33b67a3"
+      "byteCount" : 789961,
+      "file" : "MemoryFishTunaStorybook.png",
+      "id" : "MemoryFishTunaStorybook",
+      "sha256" : "8594223848f7fb488607730bba10a33f357d07de2ec0eec7102a26b986167e93"
     },
     {
       "byteCount" : 4917,
@@ -191,6 +521,48 @@
       "file" : "MemoryFlagKenya.png",
       "id" : "MemoryFlagKenya",
       "sha256" : "174a01c7a8f65e7b4e7fc976edb1f239617042113a82335fa7ff7455ea1657e9"
+    },
+    {
+      "byteCount" : 700293,
+      "file" : "MemoryFruitBanana.png",
+      "id" : "MemoryFruitBanana",
+      "sha256" : "4e158087a36b5ca5c9639a0ffca535d59b3ef5f9e3b29eb68c705759739ad094"
+    },
+    {
+      "byteCount" : 1169606,
+      "file" : "MemoryFruitGrape.png",
+      "id" : "MemoryFruitGrape",
+      "sha256" : "17aef43505a679c844c1654f721d20fd2b83b0da2a9bbde52a6049e2b45b24a1"
+    },
+    {
+      "byteCount" : 1126687,
+      "file" : "MemoryFruitMango.png",
+      "id" : "MemoryFruitMango",
+      "sha256" : "361cb67e9eb8bd458fabda00b355cfd313aa929d8afaa07bfd778a57da1939e4"
+    },
+    {
+      "byteCount" : 1211796,
+      "file" : "MemoryFruitOrange.png",
+      "id" : "MemoryFruitOrange",
+      "sha256" : "70b3c5995f3047f8840f90bbf2c89ae2772e8180f36a689d1b1f436f204a08e2"
+    },
+    {
+      "byteCount" : 1124957,
+      "file" : "MemoryFruitPineapple.png",
+      "id" : "MemoryFruitPineapple",
+      "sha256" : "690ef73e0de422f7c737dc56473a9256ab34bd13011b67ab0cfa6db8315bbee5"
+    },
+    {
+      "byteCount" : 1119894,
+      "file" : "MemoryFruitStrawberry.png",
+      "id" : "MemoryFruitStrawberry",
+      "sha256" : "eb380d31b02d1e1713dfc0bfdd4cf90378fa1a3d7bbd1f0ef6bcb30d9eac8175"
+    },
+    {
+      "byteCount" : 1550105,
+      "file" : "MemoryFruitWatermelon.png",
+      "id" : "MemoryFruitWatermelon",
+      "sha256" : "3d7c6afd681a41953b08c6c1af4d1220f77a456e110ea756a7ec177cfa2076d2"
     },
     {
       "byteCount" : 415487,
@@ -589,7 +961,7 @@
       "sha256" : "b18c6b62a49da2c32206fe750468626675067ee7aac36fbbb1a8186ef04e6a2b"
     }
   ],
-  "contentVersion" : 2,
+  "contentVersion" : 3,
   "decks" : [
     {
       "cards" : [
@@ -606,7 +978,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -617,23 +989,31 @@
                 "value" : "walks on four sturdy legs"
               },
               {
+                "title" : "Colors",
+                "value" : "black and white"
+              },
+              {
                 "title" : "Sound",
                 "value" : "gentle moo"
               },
               {
-                "title" : "Colors",
-                "value" : "black and white"
+                "title" : "Look closely",
+                "value" : "Find the cow’s broad nose and sturdy legs."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Say a gentle moo. Can you make a slow cow walk with your fingers?"
               }
             ],
             "habitat" : "farms and grassy fields",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks on four sturdy legs",
             "sound" : "gentle moo"
           },
           "name" : "Cow",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐄"
+            "kind" : "asset",
+            "value" : "MemoryAnimalCow"
           }
         },
         {
@@ -649,7 +1029,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -660,23 +1040,31 @@
                 "value" : "runs and plays quickly"
               },
               {
+                "title" : "Colors",
+                "value" : "many coat colors"
+              },
+              {
                 "title" : "Sound",
                 "value" : "happy bark"
               },
               {
-                "title" : "Colors",
-                "value" : "many coat colors"
+                "title" : "Look closely",
+                "value" : "Look at the dog’s ears, paws, and tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Give a happy pretend bark and wag an imaginary tail."
               }
             ],
             "habitat" : "homes, parks, and farms",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "runs and plays quickly",
             "sound" : "happy bark"
           },
           "name" : "Dog",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐕"
+            "kind" : "asset",
+            "value" : "MemoryAnimalDog"
           }
         },
         {
@@ -692,7 +1080,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -703,23 +1091,31 @@
                 "value" : "tiptoes and pounces"
               },
               {
+                "title" : "Colors",
+                "value" : "many fur colors"
+              },
+              {
                 "title" : "Sound",
                 "value" : "soft meow"
               },
               {
-                "title" : "Colors",
-                "value" : "many fur colors"
+                "title" : "Look closely",
+                "value" : "Find the cat’s whiskers and pointed ears."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Stretch like a cat, then tiptoe quietly in place."
               }
             ],
             "habitat" : "homes and gardens",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "tiptoes and pounces",
             "sound" : "soft meow"
           },
           "name" : "Cat",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐈"
+            "kind" : "asset",
+            "value" : "MemoryAnimalCat"
           }
         },
         {
@@ -735,7 +1131,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -746,23 +1142,31 @@
                 "value" : "walks together in flocks"
               },
               {
+                "title" : "Colors",
+                "value" : "white and cream"
+              },
+              {
                 "title" : "Sound",
                 "value" : "gentle baa"
               },
               {
-                "title" : "Colors",
-                "value" : "white and cream"
+                "title" : "Look closely",
+                "value" : "Look for the sheep’s fluffy fleece."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Pretend your arms are fluffy wool. Say a gentle baa."
               }
             ],
             "habitat" : "farms and open pastures",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks together in flocks",
             "sound" : "gentle baa"
           },
           "name" : "Sheep",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐑"
+            "kind" : "asset",
+            "value" : "CompareCampSheep"
           }
         },
         {
@@ -778,7 +1182,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -789,23 +1193,31 @@
                 "value" : "trots and roots around"
               },
               {
+                "title" : "Colors",
+                "value" : "pink, brown, or black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "snort and oink"
               },
               {
-                "title" : "Colors",
-                "value" : "pink, brown, or black"
+                "title" : "Look closely",
+                "value" : "Find the pig’s round snout and curly tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a funny oink, then draw a curly tail in the air."
               }
             ],
             "habitat" : "barnyards and farms",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "trots and roots around",
             "sound" : "snort and oink"
           },
           "name" : "Pig",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐖"
+            "kind" : "asset",
+            "value" : "MemoryAnimalPig"
           }
         },
         {
@@ -821,7 +1233,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -832,23 +1244,31 @@
                 "value" : "gallops fast"
               },
               {
+                "title" : "Colors",
+                "value" : "brown, black, white, or chestnut"
+              },
+              {
                 "title" : "Sound",
                 "value" : "neigh"
               },
               {
-                "title" : "Colors",
-                "value" : "brown, black, white, or chestnut"
+                "title" : "Look closely",
+                "value" : "Find the horse’s mane and long legs."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Tap your fingers like hooves: clip-clop, clip-clop!"
               }
             ],
             "habitat" : "stables, ranches, and fields",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "gallops fast",
             "sound" : "neigh"
           },
           "name" : "Horse",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐎"
+            "kind" : "asset",
+            "value" : "MemoryAnimalHorse"
           }
         },
         {
@@ -864,7 +1284,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -875,23 +1295,31 @@
                 "value" : "hops with long back legs"
               },
               {
+                "title" : "Colors",
+                "value" : "white, brown, gray"
+              },
+              {
                 "title" : "Sound",
                 "value" : "quiet squeaks"
               },
               {
-                "title" : "Colors",
-                "value" : "white, brown, gray"
+                "title" : "Look closely",
+                "value" : "Find the rabbit’s long ears and little tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make two rabbit ears with your fingers."
               }
             ],
             "habitat" : "gardens, meadows, and homes",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "hops with long back legs",
             "sound" : "quiet squeaks"
           },
           "name" : "Rabbit",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐇"
+            "kind" : "asset",
+            "value" : "MemoryAnimalRabbit"
           }
         },
         {
@@ -907,7 +1335,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -918,23 +1346,31 @@
                 "value" : "waddles, swims, and flies short distances"
               },
               {
+                "title" : "Colors",
+                "value" : "white, brown, or green"
+              },
+              {
                 "title" : "Sound",
                 "value" : "quack"
               },
               {
-                "title" : "Colors",
-                "value" : "white, brown, or green"
+                "title" : "Look closely",
+                "value" : "Look at the duck’s flat bill and webbed feet."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Waddle your fingers and make a quiet quack."
               }
             ],
             "habitat" : "ponds, lakes, and farms",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "waddles, swims, and flies short distances",
             "sound" : "quack"
           },
           "name" : "Duck",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🦆"
+            "kind" : "asset",
+            "value" : "MemoryAnimalDuck"
           }
         },
         {
@@ -950,7 +1386,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -961,23 +1397,31 @@
                 "value" : "struts and flaps"
               },
               {
+                "title" : "Colors",
+                "value" : "red, gold, green"
+              },
+              {
                 "title" : "Sound",
                 "value" : "cock-a-doodle-doo"
               },
               {
-                "title" : "Colors",
-                "value" : "red, gold, green"
+                "title" : "Look closely",
+                "value" : "Find the rooster’s red comb and curved tail feathers."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Stretch tall and greet the morning with a rooster call."
               }
             ],
             "habitat" : "farmyards",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "struts and flaps",
             "sound" : "cock-a-doodle-doo"
           },
           "name" : "Rooster",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐓"
+            "kind" : "asset",
+            "value" : "MemoryAnimalRooster"
           }
         },
         {
@@ -993,7 +1437,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1004,23 +1448,31 @@
                 "value" : "climbs and balances well"
               },
               {
+                "title" : "Colors",
+                "value" : "white, brown, black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "maa"
               },
               {
-                "title" : "Colors",
-                "value" : "white, brown, black"
+                "title" : "Look closely",
+                "value" : "Look for the goat’s horns and little beard."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Balance like a goat with both feet safely on the floor."
               }
             ],
             "habitat" : "farms and rocky hills",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "climbs and balances well",
             "sound" : "maa"
           },
           "name" : "Goat",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐐"
+            "kind" : "asset",
+            "value" : "MemoryAnimalGoat"
           }
         },
         {
@@ -1036,7 +1488,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1047,23 +1499,31 @@
                 "value" : "walks with strong legs"
               },
               {
+                "title" : "Colors",
+                "value" : "brown, bronze, black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "gobble"
               },
               {
-                "title" : "Colors",
-                "value" : "brown, bronze, black"
+                "title" : "Look closely",
+                "value" : "Find the turkey’s fan-shaped tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your fingers like a feather fan and gobble softly."
               }
             ],
             "habitat" : "farms and woodlands",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks with strong legs",
             "sound" : "gobble"
           },
           "name" : "Turkey",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🦃"
+            "kind" : "asset",
+            "value" : "MemoryAnimalTurkey"
           }
         },
         {
@@ -1079,7 +1539,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1092,16 +1552,24 @@
               {
                 "title" : "Colors",
                 "value" : "orange and gold"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for the goldfish’s flowing fins and tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Wave one hand like a swishy fish tail."
               }
             ],
             "habitat" : "ponds and aquariums",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "swims with a swishy tail"
           },
           "name" : "Goldfish",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐟"
+            "kind" : "asset",
+            "value" : "MemoryAnimalGoldfish"
           }
         },
         {
@@ -1117,7 +1585,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1128,23 +1596,31 @@
                 "value" : "scurries fast"
               },
               {
+                "title" : "Colors",
+                "value" : "gray, brown, white"
+              },
+              {
                 "title" : "Sound",
                 "value" : "tiny squeak"
               },
               {
-                "title" : "Colors",
-                "value" : "gray, brown, white"
+                "title" : "Look closely",
+                "value" : "Find the mouse’s rounded ears and long tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Scurry two fingers across your palm."
               }
             ],
             "habitat" : "fields, barns, and homes",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "scurries fast",
             "sound" : "tiny squeak"
           },
           "name" : "Mouse",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐁"
+            "kind" : "asset",
+            "value" : "MemoryAnimalMouse"
           }
         },
         {
@@ -1160,7 +1636,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1171,23 +1647,31 @@
                 "value" : "jumps and swims"
               },
               {
+                "title" : "Colors",
+                "value" : "green and brown"
+              },
+              {
                 "title" : "Sound",
                 "value" : "ribbit"
               },
               {
-                "title" : "Colors",
-                "value" : "green and brown"
+                "title" : "Look closely",
+                "value" : "Look for the frog’s big back legs."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a tiny frog hop with your hand."
               }
             ],
             "habitat" : "ponds, streams, and wet grass",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "jumps and swims",
             "sound" : "ribbit"
           },
           "name" : "Frog",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐸"
+            "kind" : "asset",
+            "value" : "MemoryAnimalFrog"
           }
         },
         {
@@ -1203,7 +1687,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1214,23 +1698,31 @@
                 "value" : "walks far on long legs"
               },
               {
+                "title" : "Colors",
+                "value" : "sand and tan"
+              },
+              {
                 "title" : "Sound",
                 "value" : "grumbly groan"
               },
               {
-                "title" : "Colors",
-                "value" : "sand and tan"
+                "title" : "Look closely",
+                "value" : "Find the camel’s hump and long legs."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Walk your fingers slowly across a pretend desert."
               }
             ],
             "habitat" : "deserts and dry plains",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks far on long legs",
             "sound" : "grumbly groan"
           },
           "name" : "Camel",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐪"
+            "kind" : "asset",
+            "value" : "MemoryAnimalCamel"
           }
         },
         {
@@ -1246,7 +1738,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1257,23 +1749,31 @@
                 "value" : "walks sure-footedly"
               },
               {
+                "title" : "Colors",
+                "value" : "white, brown, black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "soft hum"
               },
               {
-                "title" : "Colors",
-                "value" : "white, brown, black"
+                "title" : "Look closely",
+                "value" : "Find the llama’s long neck and tall ears."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Stretch your neck tall and make a soft humming sound."
               }
             ],
             "habitat" : "mountain farms and grasslands",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks sure-footedly",
             "sound" : "soft hum"
           },
           "name" : "Llama",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🦙"
+            "kind" : "asset",
+            "value" : "MemoryAnimalLlama"
           }
         },
         {
@@ -1289,7 +1789,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1300,23 +1800,31 @@
                 "value" : "walks steadily and carries loads"
               },
               {
+                "title" : "Colors",
+                "value" : "gray or brown"
+              },
+              {
                 "title" : "Sound",
                 "value" : "hee-haw"
               },
               {
-                "title" : "Colors",
-                "value" : "gray or brown"
+                "title" : "Look closely",
+                "value" : "Look at the donkey’s long ears."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make donkey ears with your hands and say hee-haw."
               }
             ],
             "habitat" : "farms and dry grasslands",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "walks steadily and carries loads",
             "sound" : "hee-haw"
           },
           "name" : "Donkey",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🫏"
+            "kind" : "asset",
+            "value" : "MemoryAnimalDonkey"
           }
         },
         {
@@ -1332,7 +1840,7 @@
             "factCards" : [
               {
                 "title" : "Kind",
-                "value" : "domestic animal"
+                "value" : "animal"
               },
               {
                 "title" : "Home",
@@ -1343,23 +1851,31 @@
                 "value" : "pulls and plods with strength"
               },
               {
+                "title" : "Colors",
+                "value" : "brown, black, white"
+              },
+              {
                 "title" : "Sound",
                 "value" : "deep moo"
               },
               {
-                "title" : "Colors",
-                "value" : "brown, black, white"
+                "title" : "Look closely",
+                "value" : "Find the ox’s horns and strong shoulders."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Pretend to pull a tiny cart with your fingers."
               }
             ],
             "habitat" : "farms and fields",
-            "kind" : "domestic animal",
+            "kind" : "animal",
             "movement" : "pulls and plods with strength",
             "sound" : "deep moo"
           },
           "name" : "Ox",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🐂"
+            "kind" : "asset",
+            "value" : "MemoryAnimalOx"
           }
         }
       ],
@@ -1368,7 +1884,7 @@
     {
       "cards" : [
         {
-          "canonicalName" : "Macaw",
+          "canonicalName" : "Scarlet Macaw",
           "id" : "bird-a01",
           "learningArtwork" : [
 
@@ -1380,7 +1896,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Macaw"
+                "value" : "Scarlet Macaw"
               },
               {
                 "title" : "Home",
@@ -1401,6 +1917,14 @@
               {
                 "title" : "Colors",
                 "value" : "red, yellow, blue"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its red, yellow, blue feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "South American rainforests",
@@ -1410,14 +1934,14 @@
             "size" : "80 to 90 cm long",
             "weight" : "0.9 to 1.2 kg"
           },
-          "name" : "Macaw",
+          "name" : "Scarlet Macaw",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA01"
+            "value" : "CompareCampMacaw"
           }
         },
         {
-          "canonicalName" : "Toucan",
+          "canonicalName" : "Yellow-billed Toucan",
           "id" : "bird-a02",
           "learningArtwork" : [
 
@@ -1429,7 +1953,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Toucan"
+                "value" : "Yellow-billed Toucan"
               },
               {
                 "title" : "Home",
@@ -1450,6 +1974,14 @@
               {
                 "title" : "Colors",
                 "value" : "black, yellow, orange"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its black, yellow, orange feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Central and South American forests",
@@ -1459,14 +1991,14 @@
             "size" : "50 to 60 cm long",
             "weight" : "0.3 to 0.5 kg"
           },
-          "name" : "Toucan",
+          "name" : "Yellow-billed Toucan",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA02"
+            "value" : "MemoryBirdCleanA02"
           }
         },
         {
-          "canonicalName" : "Cockatoo",
+          "canonicalName" : "Yellow-crested Cockatoo",
           "id" : "bird-a03",
           "learningArtwork" : [
 
@@ -1478,7 +2010,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Cockatoo"
+                "value" : "Yellow-crested Cockatoo"
               },
               {
                 "title" : "Home",
@@ -1499,6 +2031,14 @@
               {
                 "title" : "Colors",
                 "value" : "white and yellow"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its white and yellow feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Australia and nearby islands",
@@ -1508,10 +2048,10 @@
             "size" : "45 to 55 cm long",
             "weight" : "0.8 to 1.0 kg"
           },
-          "name" : "Cockatoo",
+          "name" : "Yellow-crested Cockatoo",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA03"
+            "value" : "MemoryBirdCleanA03"
           }
         },
         {
@@ -1548,6 +2088,14 @@
               {
                 "title" : "Colors",
                 "value" : "green, purple, teal"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green, purple, teal feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Tropical Americas",
@@ -1560,11 +2108,11 @@
           "name" : "Hummingbird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA04"
+            "value" : "MemoryBirdCleanA04"
           }
         },
         {
-          "canonicalName" : "Blue Macaw",
+          "canonicalName" : "Blue-and-gold Macaw",
           "id" : "bird-a05",
           "learningArtwork" : [
 
@@ -1597,6 +2145,14 @@
               {
                 "title" : "Colors",
                 "value" : "blue and gold"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and gold feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "South American forests",
@@ -1609,7 +2165,7 @@
           "name" : "Blue Macaw",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA05"
+            "value" : "MemoryBirdCleanA05"
           }
         },
         {
@@ -1646,6 +2202,14 @@
               {
                 "title" : "Colors",
                 "value" : "blue and orange"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and orange feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Asian and Oceanian waterways",
@@ -1658,7 +2222,7 @@
           "name" : "Kingfisher",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA06"
+            "value" : "MemoryBirdCleanA06"
           }
         },
         {
@@ -1678,7 +2242,7 @@
               },
               {
                 "title" : "Home",
-                "value" : "Gardens and woodlands in Africa and Asia"
+                "value" : "African and Asian gardens and forests"
               },
               {
                 "title" : "Lifespan",
@@ -1695,9 +2259,17 @@
               {
                 "title" : "Colors",
                 "value" : "gold, orange, brown"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its gold, orange, brown feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Gardens and woodlands in Africa and Asia",
+            "habitat" : "African and Asian gardens and forests",
             "kind" : "bird",
             "lifespan" : "3 to 5 years",
             "movement" : "flies with wings",
@@ -1707,7 +2279,7 @@
           "name" : "Sunbird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA07"
+            "value" : "MemoryBirdCleanA07"
           }
         },
         {
@@ -1727,40 +2299,48 @@
               },
               {
                 "title" : "Home",
-                "value" : "Woodland streams in Africa and Asia"
+                "value" : "Rivers and lakes in Africa and Asia"
               },
               {
                 "title" : "Lifespan",
-                "value" : "5 to 10 years"
+                "value" : "Varies by individual"
               },
               {
                 "title" : "Weight",
-                "value" : "35 to 50 g"
+                "value" : "Varies by individual"
               },
               {
                 "title" : "Size",
-                "value" : "18 to 22 cm long"
+                "value" : "25 to 30 cm long"
               },
               {
                 "title" : "Colors",
                 "value" : "black and white"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its black and white feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Woodland streams in Africa and Asia",
+            "habitat" : "Rivers and lakes in Africa and Asia",
             "kind" : "bird",
-            "lifespan" : "5 to 10 years",
+            "lifespan" : "Varies by individual",
             "movement" : "flies with wings",
-            "size" : "18 to 22 cm long",
-            "weight" : "35 to 50 g"
+            "size" : "25 to 30 cm long",
+            "weight" : "Varies by individual"
           },
           "name" : "Pied Kingfisher",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA08"
+            "value" : "MemoryBirdCleanA08"
           }
         },
         {
-          "canonicalName" : "Toucan",
+          "canonicalName" : "Orange-billed Toucan",
           "id" : "bird-a09",
           "learningArtwork" : [
 
@@ -1772,7 +2352,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Toucan"
+                "value" : "Orange-billed Toucan"
               },
               {
                 "title" : "Home",
@@ -1793,6 +2373,14 @@
               {
                 "title" : "Colors",
                 "value" : "black, white, orange"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its black, white, orange feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Tropical South America",
@@ -1802,14 +2390,14 @@
             "size" : "55 to 65 cm long",
             "weight" : "0.5 to 0.7 kg"
           },
-          "name" : "Toucan",
+          "name" : "Orange-billed Toucan",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA09"
+            "value" : "MemoryBirdCleanA09"
           }
         },
         {
-          "canonicalName" : "Parrot",
+          "canonicalName" : "Green Parrot",
           "id" : "bird-a10",
           "learningArtwork" : [
 
@@ -1821,7 +2409,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Parrot"
+                "value" : "Green Parrot"
               },
               {
                 "title" : "Home",
@@ -1842,6 +2430,14 @@
               {
                 "title" : "Colors",
                 "value" : "green, yellow, red"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green, yellow, red feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Tropical forests",
@@ -1851,14 +2447,14 @@
             "size" : "25 to 35 cm long",
             "weight" : "0.2 to 0.4 kg"
           },
-          "name" : "Parrot",
+          "name" : "Green Parrot",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA10"
+            "value" : "MemoryBirdCleanA10"
           }
         },
         {
-          "canonicalName" : "Palm Bird",
+          "canonicalName" : "Black Cockatoo",
           "id" : "bird-a11",
           "learningArtwork" : [
 
@@ -1874,36 +2470,44 @@
               },
               {
                 "title" : "Home",
-                "value" : "New Guinea and northern Australia"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "40 to 60 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "0.9 to 1.2 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "55 to 65 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "charcoal and red"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its charcoal and red feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "New Guinea and northern Australia",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "40 to 60 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "55 to 65 cm long",
-            "weight" : "0.9 to 1.2 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Palm Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA11"
+            "value" : "MemoryBirdCleanA11"
           }
         },
         {
@@ -1940,6 +2544,14 @@
               {
                 "title" : "Colors",
                 "value" : "pink and coral"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its pink and coral feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Warm lakes and lagoons",
@@ -1952,7 +2564,7 @@
           "name" : "Flamingo",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA12"
+            "value" : "CompareCampFlamingo"
           }
         },
         {
@@ -1972,40 +2584,48 @@
               },
               {
                 "title" : "Home",
-                "value" : "Forest edges in tropical America"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "10 to 15 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "0.2 to 0.3 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "25 to 35 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "blue and gold"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and gold feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Forest edges in tropical America",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "10 to 15 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "25 to 35 cm long",
-            "weight" : "0.2 to 0.3 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Blue Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA13"
+            "value" : "MemoryBirdCleanA13"
           }
         },
         {
-          "canonicalName" : "Parrot",
+          "canonicalName" : "Red-faced Parrot",
           "id" : "bird-a14",
           "learningArtwork" : [
 
@@ -2017,7 +2637,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Parrot"
+                "value" : "Red-faced Parrot"
               },
               {
                 "title" : "Home",
@@ -2038,6 +2658,14 @@
               {
                 "title" : "Colors",
                 "value" : "green and red"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green and red feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Oceania rainforests",
@@ -2047,10 +2675,10 @@
             "size" : "30 to 35 cm long",
             "weight" : "0.2 to 0.4 kg"
           },
-          "name" : "Parrot",
+          "name" : "Red-faced Parrot",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA14"
+            "value" : "MemoryBirdCleanA14"
           }
         },
         {
@@ -2070,36 +2698,44 @@
               },
               {
                 "title" : "Home",
-                "value" : "Tropical gardens and forests"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "6 to 10 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "25 to 40 g"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "15 to 18 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "green and yellow"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green and yellow feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Tropical gardens and forests",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "6 to 10 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "15 to 18 cm long",
-            "weight" : "25 to 40 g"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Songbird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA15"
+            "value" : "MemoryBirdCleanA15"
           }
         },
         {
@@ -2136,6 +2772,14 @@
               {
                 "title" : "Colors",
                 "value" : "cinnamon, black, white"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its cinnamon, black, white feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Africa, Europe, and Asia",
@@ -2148,7 +2792,7 @@
           "name" : "Hoopoe",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA16"
+            "value" : "MemoryBirdCleanA16"
           }
         },
         {
@@ -2168,36 +2812,44 @@
               },
               {
                 "title" : "Home",
-                "value" : "Island forests"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "10 to 15 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "0.2 to 0.4 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "25 to 35 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "white, blue, silver"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its white, blue, silver feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Island forests",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "10 to 15 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "25 to 35 cm long",
-            "weight" : "0.2 to 0.4 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Crested Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA17"
+            "value" : "MemoryBirdCleanA17"
           }
         },
         {
@@ -2234,6 +2886,14 @@
               {
                 "title" : "Colors",
                 "value" : "scarlet red"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its scarlet red feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "South American wetlands",
@@ -2246,11 +2906,11 @@
           "name" : "Ibis",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdA18"
+            "value" : "MemoryBirdCleanA18"
           }
         },
         {
-          "canonicalName" : "Macaw",
+          "canonicalName" : "Blue-and-gold Macaw",
           "id" : "bird-b01",
           "learningArtwork" : [
 
@@ -2262,7 +2922,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Macaw"
+                "value" : "Blue-and-gold Macaw"
               },
               {
                 "title" : "Home",
@@ -2283,6 +2943,14 @@
               {
                 "title" : "Colors",
                 "value" : "blue and gold"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and gold feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "South American rainforests",
@@ -2292,10 +2960,10 @@
             "size" : "75 to 90 cm long",
             "weight" : "0.9 to 1.3 kg"
           },
-          "name" : "Macaw",
+          "name" : "Blue-and-gold Macaw",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB01"
+            "value" : "MemoryBirdCleanB01"
           }
         },
         {
@@ -2332,6 +3000,14 @@
               {
                 "title" : "Colors",
                 "value" : "pink and white"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its pink and white feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "American marshes and coasts",
@@ -2344,7 +3020,7 @@
           "name" : "Spoonbill",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB02"
+            "value" : "MemoryBirdCleanB02"
           }
         },
         {
@@ -2381,6 +3057,14 @@
               {
                 "title" : "Colors",
                 "value" : "green, yellow, purple"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green, yellow, purple feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Northern Australia",
@@ -2393,7 +3077,7 @@
           "name" : "Finch",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB03"
+            "value" : "MemoryBirdCleanB03"
           }
         },
         {
@@ -2413,40 +3097,48 @@
               },
               {
                 "title" : "Home",
-                "value" : "New Guinea forests"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "15 to 25 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "2.0 to 2.5 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "65 to 75 cm tall"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "blue and maroon"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and maroon feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "New Guinea forests",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "15 to 25 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "65 to 75 cm tall",
-            "weight" : "2.0 to 2.5 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Crowned Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB04"
+            "value" : "MemoryBirdCleanB04"
           }
         },
         {
-          "canonicalName" : "Parrot",
+          "canonicalName" : "Red-and-green Parrot",
           "id" : "bird-b05",
           "learningArtwork" : [
 
@@ -2458,7 +3150,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Parrot"
+                "value" : "Red-and-green Parrot"
               },
               {
                 "title" : "Home",
@@ -2479,6 +3171,14 @@
               {
                 "title" : "Colors",
                 "value" : "red and green"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its red and green feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "South American forests",
@@ -2488,10 +3188,10 @@
             "size" : "30 to 40 cm long",
             "weight" : "0.3 to 0.5 kg"
           },
-          "name" : "Parrot",
+          "name" : "Red-and-green Parrot",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB05"
+            "value" : "MemoryBirdCleanB05"
           }
         },
         {
@@ -2511,40 +3211,48 @@
               },
               {
                 "title" : "Home",
-                "value" : "African forest canopies"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "8 to 12 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "0.2 to 0.4 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "30 to 40 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "emerald green"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its emerald green feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "African forest canopies",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "8 to 12 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "30 to 40 cm long",
-            "weight" : "0.2 to 0.4 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
           "name" : "Green Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB06"
+            "value" : "MemoryBirdCleanB06"
           }
         },
         {
-          "canonicalName" : "Cockatoo",
+          "canonicalName" : "Yellow-crested Cockatoo",
           "id" : "bird-b07",
           "learningArtwork" : [
 
@@ -2556,7 +3264,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Cockatoo"
+                "value" : "White Cockatoo"
               },
               {
                 "title" : "Home",
@@ -2577,6 +3285,14 @@
               {
                 "title" : "Colors",
                 "value" : "white and yellow"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its white and yellow feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Australia",
@@ -2586,10 +3302,10 @@
             "size" : "40 to 50 cm long",
             "weight" : "0.5 to 0.8 kg"
           },
-          "name" : "Cockatoo",
+          "name" : "White Cockatoo",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB07"
+            "value" : "MemoryBirdCleanB07"
           }
         },
         {
@@ -2626,6 +3342,14 @@
               {
                 "title" : "Colors",
                 "value" : "green and blue"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green and blue feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Dry forests of the Americas",
@@ -2638,11 +3362,11 @@
           "name" : "Parrotlet",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB08"
+            "value" : "MemoryBirdCleanB08"
           }
         },
         {
-          "canonicalName" : "Golden Bird",
+          "canonicalName" : "Storybook Golden Bird",
           "id" : "bird-b09",
           "learningArtwork" : [
 
@@ -2654,40 +3378,52 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Golden Bird"
+                "value" : "Storybook Golden Bird"
               },
               {
                 "title" : "Home",
-                "value" : "Asian mountain forests"
+                "value" : "A make-believe storybook world"
               },
               {
                 "title" : "Lifespan",
-                "value" : "6 to 10 years"
+                "value" : "Imaginary bird"
               },
               {
                 "title" : "Weight",
-                "value" : "0.6 to 0.8 kg"
+                "value" : "Imaginary bird"
               },
               {
                 "title" : "Size",
-                "value" : "90 to 110 cm long"
+                "value" : "Imaginary bird"
               },
               {
                 "title" : "Colors",
                 "value" : "gold, red, green"
+              },
+              {
+                "title" : "Story",
+                "value" : "A make-believe bird from our storybook"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its gold, red, green feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Asian mountain forests",
-            "kind" : "bird",
-            "lifespan" : "6 to 10 years",
-            "movement" : "flies with wings",
-            "size" : "90 to 110 cm long",
-            "weight" : "0.6 to 0.8 kg"
+            "habitat" : "A make-believe storybook world",
+            "kind" : "storybook bird",
+            "lifespan" : "Imaginary bird",
+            "movement" : "soars in our imagination",
+            "size" : "Imaginary bird",
+            "weight" : "Imaginary bird"
           },
-          "name" : "Golden Bird",
+          "name" : "Storybook Golden Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB09"
+            "value" : "MemoryBirdCleanB09"
           }
         },
         {
@@ -2724,6 +3460,14 @@
               {
                 "title" : "Colors",
                 "value" : "green and crimson"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green and crimson feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "African forests",
@@ -2736,7 +3480,7 @@
           "name" : "Turaco",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB10"
+            "value" : "MemoryBirdCleanB10"
           }
         },
         {
@@ -2773,6 +3517,14 @@
               {
                 "title" : "Colors",
                 "value" : "blue and emerald"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue and emerald feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "India and Sri Lanka",
@@ -2785,11 +3537,11 @@
           "name" : "Peafowl",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB11"
+            "value" : "CompareCampPeafowl"
           }
         },
         {
-          "canonicalName" : "Green Bird",
+          "canonicalName" : "Songbird",
           "id" : "bird-b12",
           "learningArtwork" : [
 
@@ -2801,40 +3553,48 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Green Bird"
+                "value" : "Yellow-green Bird"
               },
               {
                 "title" : "Home",
-                "value" : "Woodland edges"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Lifespan",
-                "value" : "8 to 12 years"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Weight",
-                "value" : "0.2 to 0.3 kg"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Size",
-                "value" : "25 to 35 cm long"
+                "value" : "Varies by species"
               },
               {
                 "title" : "Colors",
                 "value" : "green and yellow"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green and yellow feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
-            "habitat" : "Woodland edges",
+            "habitat" : "Varies by species",
             "kind" : "bird",
-            "lifespan" : "8 to 12 years",
+            "lifespan" : "Varies by species",
             "movement" : "flies with wings",
-            "size" : "25 to 35 cm long",
-            "weight" : "0.2 to 0.3 kg"
+            "size" : "Varies by species",
+            "weight" : "Varies by species"
           },
-          "name" : "Green Bird",
+          "name" : "Yellow-green Bird",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB12"
+            "value" : "MemoryBirdCleanB12"
           }
         },
         {
@@ -2850,7 +3610,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Ibis"
+                "value" : "Coral Ibis"
               },
               {
                 "title" : "Home",
@@ -2871,6 +3631,14 @@
               {
                 "title" : "Colors",
                 "value" : "red and coral"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its red and coral feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Tropical wetlands",
@@ -2880,10 +3648,10 @@
             "size" : "55 to 65 cm long",
             "weight" : "0.8 to 1.2 kg"
           },
-          "name" : "Ibis",
+          "name" : "Coral Ibis",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB13"
+            "value" : "MemoryBirdCleanB13"
           }
         },
         {
@@ -2920,6 +3688,14 @@
               {
                 "title" : "Colors",
                 "value" : "pink and white"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its pink and white feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Inland Australia",
@@ -2932,11 +3708,11 @@
           "name" : "Pink Cockatoo",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB14"
+            "value" : "MemoryBirdCleanB14"
           }
         },
         {
-          "canonicalName" : "Peafowl",
+          "canonicalName" : "Garden Peafowl",
           "id" : "bird-b15",
           "learningArtwork" : [
 
@@ -2948,7 +3724,7 @@
             "factCards" : [
               {
                 "title" : "Name",
-                "value" : "Peafowl"
+                "value" : "Garden Peafowl"
               },
               {
                 "title" : "Home",
@@ -2969,6 +3745,14 @@
               {
                 "title" : "Colors",
                 "value" : "blue, green, bronze"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its blue, green, bronze feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Asian grasslands and gardens",
@@ -2978,10 +3762,10 @@
             "size" : "85 to 100 cm body length",
             "weight" : "3 to 5 kg"
           },
-          "name" : "Peafowl",
+          "name" : "Garden Peafowl",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB15"
+            "value" : "MemoryBirdCleanB15"
           }
         },
         {
@@ -3018,6 +3802,14 @@
               {
                 "title" : "Colors",
                 "value" : "black, white, orange"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its black, white, orange feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "North Atlantic coasts",
@@ -3030,11 +3822,11 @@
           "name" : "Puffin",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB16"
+            "value" : "CompareCampPuffin"
           }
         },
         {
-          "canonicalName" : "Black Palm",
+          "canonicalName" : "Black Cockatoo",
           "id" : "bird-b17",
           "learningArtwork" : [
 
@@ -3067,6 +3859,14 @@
               {
                 "title" : "Colors",
                 "value" : "charcoal and red"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its charcoal and red feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "New Guinea and Australia",
@@ -3079,7 +3879,7 @@
           "name" : "Black Palm",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB17"
+            "value" : "MemoryBirdCleanB17"
           }
         },
         {
@@ -3116,6 +3916,14 @@
               {
                 "title" : "Colors",
                 "value" : "green, blue, gold"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Spot its green, blue, gold feathers and the shape of its beak."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Spread your arms like wings. Can you glide slowly?"
               }
             ],
             "habitat" : "Africa and South Asia",
@@ -3128,7 +3936,7 @@
           "name" : "Bee-eater",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryBirdB18"
+            "value" : "MemoryBirdCleanB18"
           }
         }
       ],
@@ -3160,12 +3968,20 @@
                 "value" : "rolls on four wheels"
               },
               {
+                "title" : "Colors",
+                "value" : "many bright paint colors"
+              },
+              {
                 "title" : "Sound",
                 "value" : "vroom"
               },
               {
-                "title" : "Colors",
-                "value" : "many bright paint colors"
+                "title" : "Look closely",
+                "value" : "Find the many bright paint colors colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend car journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3203,12 +4019,20 @@
                 "value" : "drives on roads with many seats"
               },
               {
+                "title" : "Colors",
+                "value" : "yellow, red, blue, green"
+              },
+              {
                 "title" : "Sound",
                 "value" : "rumbling engine"
               },
               {
-                "title" : "Colors",
-                "value" : "yellow, red, blue, green"
+                "title" : "Look closely",
+                "value" : "Find the yellow, red, blue, green colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend bus journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3246,12 +4070,20 @@
                 "value" : "rolls on rails"
               },
               {
+                "title" : "Colors",
+                "value" : "black, silver, red, blue"
+              },
+              {
                 "title" : "Sound",
                 "value" : "choo-choo"
               },
               {
-                "title" : "Colors",
-                "value" : "black, silver, red, blue"
+                "title" : "Look closely",
+                "value" : "Find the black, silver, red, blue colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend train journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3289,12 +4121,20 @@
                 "value" : "zooms with wings"
               },
               {
+                "title" : "Colors",
+                "value" : "white, blue, silver"
+              },
+              {
                 "title" : "Sound",
                 "value" : "whooshing jet sound"
               },
               {
-                "title" : "Colors",
-                "value" : "white, blue, silver"
+                "title" : "Look closely",
+                "value" : "Find the white, blue, silver colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend plane journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3332,12 +4172,20 @@
                 "value" : "floats and glides"
               },
               {
+                "title" : "Colors",
+                "value" : "white, blue, red"
+              },
+              {
                 "title" : "Sound",
                 "value" : "splashing water"
               },
               {
-                "title" : "Colors",
-                "value" : "white, blue, red"
+                "title" : "Look closely",
+                "value" : "Find the white, blue, red colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend boat journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3375,12 +4223,20 @@
                 "value" : "rolls on two wheels"
               },
               {
+                "title" : "Colors",
+                "value" : "red, blue, green, black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "spinning wheels"
               },
               {
-                "title" : "Colors",
-                "value" : "red, blue, green, black"
+                "title" : "Look closely",
+                "value" : "Find the red, blue, green, black colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend bike journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3418,12 +4274,20 @@
                 "value" : "drives with a strong engine"
               },
               {
+                "title" : "Colors",
+                "value" : "white, blue, red"
+              },
+              {
                 "title" : "Sound",
                 "value" : "deep engine rumble"
               },
               {
-                "title" : "Colors",
-                "value" : "white, blue, red"
+                "title" : "Look closely",
+                "value" : "Find the white, blue, red colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend truck journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3461,12 +4325,20 @@
                 "value" : "rumbles over dirt with big tires"
               },
               {
+                "title" : "Colors",
+                "value" : "green, red, yellow"
+              },
+              {
                 "title" : "Sound",
                 "value" : "put-put engine"
               },
               {
-                "title" : "Colors",
-                "value" : "green, red, yellow"
+                "title" : "Look closely",
+                "value" : "Find the green, red, yellow colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend tractor journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3504,12 +4376,20 @@
                 "value" : "lifts with spinning blades"
               },
               {
+                "title" : "Colors",
+                "value" : "red, blue, white"
+              },
+              {
                 "title" : "Sound",
                 "value" : "whup-whup"
               },
               {
-                "title" : "Colors",
-                "value" : "red, blue, white"
+                "title" : "Look closely",
+                "value" : "Find the red, blue, white colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend copter journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3547,12 +4427,20 @@
                 "value" : "launches straight up fast"
               },
               {
+                "title" : "Colors",
+                "value" : "silver, white, red"
+              },
+              {
                 "title" : "Sound",
                 "value" : "roaring blast"
               },
               {
-                "title" : "Colors",
-                "value" : "silver, white, red"
+                "title" : "Look closely",
+                "value" : "Find the silver, white, red colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend rocket journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3590,12 +4478,20 @@
                 "value" : "rolls on two small wheels"
               },
               {
+                "title" : "Colors",
+                "value" : "red, teal, yellow"
+              },
+              {
                 "title" : "Sound",
                 "value" : "buzzy motor"
               },
               {
-                "title" : "Colors",
-                "value" : "red, teal, yellow"
+                "title" : "Look closely",
+                "value" : "Find the red, teal, yellow colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend scooter journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3633,12 +4529,20 @@
                 "value" : "drives on busy roads"
               },
               {
+                "title" : "Colors",
+                "value" : "yellow and black"
+              },
+              {
                 "title" : "Sound",
                 "value" : "honk honk"
               },
               {
-                "title" : "Colors",
-                "value" : "yellow and black"
+                "title" : "Look closely",
+                "value" : "Find the yellow and black colors and the parts that help it move."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make a pretend taxi journey with your hands. Where will you go?"
               }
             ],
             "kind" : "vehicle",
@@ -3937,6 +4841,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "The load must stay within the crane's lifting limit"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the telescoping boom and outriggers. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "crane",
@@ -3982,6 +4894,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "A clear swing area keeps people away from the moving boom"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the lattice boom and wide crawler tracks. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "crane",
@@ -4027,6 +4947,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "The bucket stays low while travelling for better balance"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the large front bucket. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "loader",
@@ -4072,6 +5000,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "The safety bar helps protect the operator"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the lift arms with changeable attachments. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "loader",
@@ -4117,6 +5053,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Only one digging end works at a time"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the front bucket and rear backhoe. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "loader",
@@ -4162,6 +5106,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "It unloads only on firm, level ground"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the tilting cargo bed. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "truck",
@@ -4207,6 +5159,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Workers keep clear of the turning drum and chute"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the rotating mixing drum. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "truck",
@@ -4252,6 +5212,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Flashing lights warn others when the truck stops often"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the lifting hopper and compactor. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "truck",
@@ -4297,6 +5265,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Warning lights help drivers see the stopped tow truck"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the wheel lift or flatbed. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "truck",
@@ -4342,6 +5318,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Smaller vehicles stay where the driver can see them"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the giant tires and reinforced dump body. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "mining vehicle",
@@ -4387,6 +5371,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "People stay outside its wide swing area"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the boom, stick, bucket, and rotating cab. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "earthmover",
@@ -4432,6 +5424,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "The driver checks the ground before working near an edge"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the wide front blade and crawler tracks. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "earthmover",
@@ -4477,6 +5477,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Sirens and flashing lights ask traffic to make a safe path"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the water pump and hose connections. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "emergency vehicle",
@@ -4522,6 +5530,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Seat belts hold everyone safely during the ride"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the stretcher and medical equipment. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "emergency vehicle",
@@ -4567,6 +5583,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Drivers slow down and make space when it approaches"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the radio, lights, and siren. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "emergency vehicle",
@@ -4612,6 +5636,14 @@
               {
                 "title" : "Safety Fact",
                 "value" : "Loose objects must stay far from the powerful rotor wind"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the main rotor and rescue winch. It helps this machine do its job."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Use your hands to show how this machine moves. Stay in your play space."
               }
             ],
             "kind" : "emergency aircraft",
@@ -4659,6 +5691,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "A year lasts 88 days"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for gray on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4702,6 +5742,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It spins very slowly"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for creamy white and pale tan on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4745,6 +5793,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It has one moon"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for blue, green, white on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4788,6 +5844,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It has two small moons"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for rusty red on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4831,6 +5895,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It is the biggest planet"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for brown, cream, orange on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4874,6 +5946,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It is famous for bright rings"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for gold and tan on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4917,6 +5997,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It rotates on its side"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for icy blue on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -4960,6 +6048,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It has very fast winds"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look for deep blue on this planet picture."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Draw a big loop in the air, like a planet going around the Sun."
               }
             ],
             "habitat" : "our solar system",
@@ -5008,6 +6104,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It hides safely inside sea anemones"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the white bands on its orange body."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Wiggle your hand between pretend coral branches."
               }
             ],
             "habitat" : "warm coral reefs",
@@ -5018,7 +6122,7 @@
           "name" : "Clownfish",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishClownfish"
+            "value" : "MemoryFishClownfishStorybook"
           }
         },
         {
@@ -5051,6 +6155,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It can remember simple routes and feeding times"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look at its golden body and flowing tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Swish your hand gently from side to side."
               }
             ],
             "habitat" : "ponds and aquariums",
@@ -5061,7 +6173,7 @@
           "name" : "Goldfish",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishGoldfish"
+            "value" : "MemoryFishGoldfishStorybook"
           }
         },
         {
@@ -5094,6 +6206,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It can breathe some air from the surface"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look at its wide, flowing fins."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Fan your fingers out like a betta’s fins."
               }
             ],
             "habitat" : "slow streams and rice fields",
@@ -5104,7 +6224,7 @@
           "name" : "Betta",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishBetta"
+            "value" : "MemoryFishBettaStorybook"
           }
         },
         {
@@ -5115,7 +6235,7 @@
           ],
           "metadata" : {
             "category" : "fish",
-            "colors" : "yellow, blue, black",
+            "colors" : "silver, yellow, black",
             "deck" : "fishes",
             "factCards" : [
               {
@@ -5124,30 +6244,38 @@
               },
               {
                 "title" : "Home",
-                "value" : "coral reefs"
+                "value" : "freshwater rivers in South America"
               },
               {
                 "title" : "Size",
-                "value" : "15 to 25 cm long"
+                "value" : "up to about 18 cm long"
               },
               {
                 "title" : "Colors",
-                "value" : "yellow, blue, black"
+                "value" : "silver, yellow, black"
               },
               {
                 "title" : "Fun Fact",
-                "value" : "It glides between corals with flat fins"
+                "value" : "Its long fins make a tall, triangular shape"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the tall fins and flat body."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Hold your hand flat and glide it through pretend water."
               }
             ],
-            "habitat" : "coral reefs",
+            "habitat" : "freshwater rivers in South America",
             "kind" : "fish",
             "movement" : "swims with fins",
-            "size" : "15 to 25 cm long"
+            "size" : "up to about 18 cm long"
           },
           "name" : "Angelfish",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishAngelfish"
+            "value" : "MemoryFishAngelfishStorybook"
           }
         },
         {
@@ -5180,6 +6308,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "Its whiskers help it sense food in cloudy water"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the whisker-like feelers beside its mouth."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Wiggle your fingers beside your cheeks like feelers."
               }
             ],
             "habitat" : "rivers, lakes, and ponds",
@@ -5190,7 +6326,7 @@
           "name" : "Catfish",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishCatfish"
+            "value" : "MemoryFishCatfishStorybook"
           }
         },
         {
@@ -5223,6 +6359,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "The male has a long sword-shaped tail"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find the long point on the bottom of its tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Trace that tail shape in the air with one finger."
               }
             ],
             "habitat" : "freshwater streams",
@@ -5233,7 +6377,7 @@
           "name" : "Swordtail",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishSwordtail"
+            "value" : "MemoryFishSwordtailStorybook"
           }
         },
         {
@@ -5266,6 +6410,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It can swim very fast for long distances"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Look at its sleek body and forked tail."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make your hand a speedy fish swimming through the air."
               }
             ],
             "habitat" : "open ocean waters",
@@ -5276,7 +6428,7 @@
           "name" : "Tuna",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishTuna"
+            "value" : "MemoryFishTunaStorybook"
           }
         },
         {
@@ -5309,6 +6461,14 @@
               {
                 "title" : "Fun Fact",
                 "value" : "It swims upright and curls its tail"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its curled tail and upright body."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Curl one finger into a little seahorse tail."
               }
             ],
             "habitat" : "sea grass beds and reefs",
@@ -5319,7 +6479,7 @@
           "name" : "Seahorse",
           "picture" : {
             "kind" : "asset",
-            "value" : "MemoryFishSeahorse"
+            "value" : "MemoryFishSeahorseStorybook"
           }
         }
       ],
@@ -8029,6 +9189,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "India, China, the United States, and Europe"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its round shape and red, green, or yellow colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "India, China, the United States, and Europe",
@@ -8039,8 +9207,8 @@
           },
           "name" : "Apple",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍎"
+            "kind" : "asset",
+            "value" : "CompareCampApple"
           }
         },
         {
@@ -8077,6 +9245,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "India, Ecuador, the Philippines, and Brazil"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its long and curved shape and yellow colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "India, Ecuador, the Philippines, and Brazil",
@@ -8087,8 +9263,8 @@
           },
           "name" : "Banana",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍌"
+            "kind" : "asset",
+            "value" : "MemoryFruitBanana"
           }
         },
         {
@@ -8125,6 +9301,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "India, Mexico, Thailand, and Pakistan"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its oval shape and yellow, orange, green, or red colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "India, Mexico, Thailand, and Pakistan",
@@ -8135,8 +9319,8 @@
           },
           "name" : "Mango",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🥭"
+            "kind" : "asset",
+            "value" : "MemoryFruitMango"
           }
         },
         {
@@ -8173,6 +9357,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "Brazil, India, China, and Spain"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its round shape and orange colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "Brazil, India, China, and Spain",
@@ -8183,8 +9375,8 @@
           },
           "name" : "Orange",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍊"
+            "kind" : "asset",
+            "value" : "MemoryFruitOrange"
           }
         },
         {
@@ -8221,6 +9413,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "Italy, China, the United States, and India"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its small round bunches shape and green, red, or purple colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "Italy, China, the United States, and India",
@@ -8231,8 +9431,8 @@
           },
           "name" : "Grape",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍇"
+            "kind" : "asset",
+            "value" : "MemoryFruitGrape"
           }
         },
         {
@@ -8269,6 +9469,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "India, China, Turkey, and Brazil"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its large oval shape and green outside and red inside colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "India, China, Turkey, and Brazil",
@@ -8279,8 +9487,8 @@
           },
           "name" : "Watermelon",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍉"
+            "kind" : "asset",
+            "value" : "MemoryFruitWatermelon"
           }
         },
         {
@@ -8317,6 +9525,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "Costa Rica, India, the Philippines, and Thailand"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its oval with spiky crown shape and gold and green colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "Costa Rica, India, the Philippines, and Thailand",
@@ -8327,8 +9543,8 @@
           },
           "name" : "Pineapple",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍍"
+            "kind" : "asset",
+            "value" : "MemoryFruitPineapple"
           }
         },
         {
@@ -8365,6 +9581,14 @@
               {
                 "title" : "Usually Found",
                 "value" : "United States, Mexico, Spain, and India"
+              },
+              {
+                "title" : "Look closely",
+                "value" : "Find its heart-shaped shape and red with tiny seeds colors."
+              },
+              {
+                "title" : "Try it",
+                "value" : "Make this fruit’s shape with your hands. What would you put in a pretend picnic?"
               }
             ],
             "habitat" : "United States, Mexico, Spain, and India",
@@ -8375,8 +9599,8 @@
           },
           "name" : "Strawberry",
           "picture" : {
-            "kind" : "emoji",
-            "value" : "🍓"
+            "kind" : "asset",
+            "value" : "MemoryFruitStrawberry"
           }
         }
       ],
@@ -11402,7 +12626,7 @@
               "id" : "world-animal-cow-name",
               "typeID" : "name",
               "value" : "Cow",
-              "visualKey" : "🐄"
+              "visualAssetName" : "MemoryAnimalCow"
             },
             {
               "explanation" : "This animal can live in farms and grassy fields.",
@@ -11435,14 +12659,14 @@
               "value" : "black and white"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-cow-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in farms and grassy fields and walks on four sturdy legs.",
-          "visualKey" : "🐄"
+          "summary" : "A animal that lives in farms and grassy fields and walks on four sturdy legs.",
+          "visualAssetName" : "MemoryAnimalCow"
         },
         {
           "id" : "world-animal-dog",
@@ -11453,7 +12677,7 @@
               "id" : "world-animal-dog-name",
               "typeID" : "name",
               "value" : "Dog",
-              "visualKey" : "🐕"
+              "visualAssetName" : "MemoryAnimalDog"
             },
             {
               "explanation" : "This animal can live in homes, parks, and farms.",
@@ -11486,14 +12710,14 @@
               "value" : "many coat colors"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-dog-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in homes, parks, and farms and runs and plays quickly.",
-          "visualKey" : "🐕"
+          "summary" : "A animal that lives in homes, parks, and farms and runs and plays quickly.",
+          "visualAssetName" : "MemoryAnimalDog"
         },
         {
           "id" : "world-animal-cat",
@@ -11504,7 +12728,7 @@
               "id" : "world-animal-cat-name",
               "typeID" : "name",
               "value" : "Cat",
-              "visualKey" : "🐈"
+              "visualAssetName" : "MemoryAnimalCat"
             },
             {
               "explanation" : "This animal can live in homes and gardens.",
@@ -11537,14 +12761,14 @@
               "value" : "many fur colors"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-cat-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in homes and gardens and tiptoes and pounces.",
-          "visualKey" : "🐈"
+          "summary" : "A animal that lives in homes and gardens and tiptoes and pounces.",
+          "visualAssetName" : "MemoryAnimalCat"
         },
         {
           "id" : "world-animal-sheep",
@@ -11555,7 +12779,7 @@
               "id" : "world-animal-sheep-name",
               "typeID" : "name",
               "value" : "Sheep",
-              "visualKey" : "🐑"
+              "visualAssetName" : "CompareCampSheep"
             },
             {
               "explanation" : "This animal can live in farms and open pastures.",
@@ -11588,14 +12812,14 @@
               "value" : "white and cream"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-sheep-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in farms and open pastures and walks together in flocks.",
-          "visualKey" : "🐑"
+          "summary" : "A animal that lives in farms and open pastures and walks together in flocks.",
+          "visualAssetName" : "CompareCampSheep"
         },
         {
           "id" : "world-animal-pig",
@@ -11606,7 +12830,7 @@
               "id" : "world-animal-pig-name",
               "typeID" : "name",
               "value" : "Pig",
-              "visualKey" : "🐖"
+              "visualAssetName" : "MemoryAnimalPig"
             },
             {
               "explanation" : "This animal can live in barnyards and farms.",
@@ -11639,14 +12863,14 @@
               "value" : "pink, brown, or black"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-pig-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in barnyards and farms and trots and roots around.",
-          "visualKey" : "🐖"
+          "summary" : "A animal that lives in barnyards and farms and trots and roots around.",
+          "visualAssetName" : "MemoryAnimalPig"
         },
         {
           "id" : "world-animal-horse",
@@ -11657,7 +12881,7 @@
               "id" : "world-animal-horse-name",
               "typeID" : "name",
               "value" : "Horse",
-              "visualKey" : "🐎"
+              "visualAssetName" : "MemoryAnimalHorse"
             },
             {
               "explanation" : "This animal can live in stables, ranches, and fields.",
@@ -11690,14 +12914,14 @@
               "value" : "brown, black, white, or chestnut"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-horse-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in stables, ranches, and fields and gallops fast.",
-          "visualKey" : "🐎"
+          "summary" : "A animal that lives in stables, ranches, and fields and gallops fast.",
+          "visualAssetName" : "MemoryAnimalHorse"
         },
         {
           "id" : "world-animal-rabbit",
@@ -11708,7 +12932,7 @@
               "id" : "world-animal-rabbit-name",
               "typeID" : "name",
               "value" : "Rabbit",
-              "visualKey" : "🐇"
+              "visualAssetName" : "MemoryAnimalRabbit"
             },
             {
               "explanation" : "This animal can live in gardens, meadows, and homes.",
@@ -11741,14 +12965,14 @@
               "value" : "white, brown, gray"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-rabbit-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in gardens, meadows, and homes and hops with long back legs.",
-          "visualKey" : "🐇"
+          "summary" : "A animal that lives in gardens, meadows, and homes and hops with long back legs.",
+          "visualAssetName" : "MemoryAnimalRabbit"
         },
         {
           "id" : "world-animal-duck",
@@ -11759,7 +12983,7 @@
               "id" : "world-animal-duck-name",
               "typeID" : "name",
               "value" : "Duck",
-              "visualKey" : "🦆"
+              "visualAssetName" : "MemoryAnimalDuck"
             },
             {
               "explanation" : "This animal can live in ponds, lakes, and farms.",
@@ -11792,14 +13016,14 @@
               "value" : "white, brown, or green"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-duck-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in ponds, lakes, and farms and waddles, swims, and flies short distances.",
-          "visualKey" : "🦆"
+          "summary" : "A animal that lives in ponds, lakes, and farms and waddles, swims, and flies short distances.",
+          "visualAssetName" : "MemoryAnimalDuck"
         },
         {
           "id" : "world-animal-rooster",
@@ -11810,7 +13034,7 @@
               "id" : "world-animal-rooster-name",
               "typeID" : "name",
               "value" : "Rooster",
-              "visualKey" : "🐓"
+              "visualAssetName" : "MemoryAnimalRooster"
             },
             {
               "explanation" : "This animal can live in farmyards.",
@@ -11843,14 +13067,14 @@
               "value" : "red, gold, green"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-rooster-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in farmyards and struts and flaps.",
-          "visualKey" : "🐓"
+          "summary" : "A animal that lives in farmyards and struts and flaps.",
+          "visualAssetName" : "MemoryAnimalRooster"
         },
         {
           "id" : "world-animal-goat",
@@ -11861,7 +13085,7 @@
               "id" : "world-animal-goat-name",
               "typeID" : "name",
               "value" : "Goat",
-              "visualKey" : "🐐"
+              "visualAssetName" : "MemoryAnimalGoat"
             },
             {
               "explanation" : "This animal can live in farms and rocky hills.",
@@ -11894,14 +13118,14 @@
               "value" : "white, brown, black"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-goat-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in farms and rocky hills and climbs and balances well.",
-          "visualKey" : "🐐"
+          "summary" : "A animal that lives in farms and rocky hills and climbs and balances well.",
+          "visualAssetName" : "MemoryAnimalGoat"
         },
         {
           "id" : "world-animal-turkey",
@@ -11912,7 +13136,7 @@
               "id" : "world-animal-turkey-name",
               "typeID" : "name",
               "value" : "Turkey",
-              "visualKey" : "🦃"
+              "visualAssetName" : "MemoryAnimalTurkey"
             },
             {
               "explanation" : "This animal can live in farms and woodlands.",
@@ -11945,14 +13169,14 @@
               "value" : "brown, bronze, black"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-turkey-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in farms and woodlands and walks with strong legs.",
-          "visualKey" : "🦃"
+          "summary" : "A animal that lives in farms and woodlands and walks with strong legs.",
+          "visualAssetName" : "MemoryAnimalTurkey"
         },
         {
           "id" : "world-animal-goldfish",
@@ -11963,7 +13187,7 @@
               "id" : "world-animal-goldfish-name",
               "typeID" : "name",
               "value" : "Goldfish",
-              "visualKey" : "🐟"
+              "visualAssetName" : "MemoryAnimalGoldfish"
             },
             {
               "explanation" : "This animal can live in ponds and aquariums.",
@@ -11996,14 +13220,14 @@
               "value" : "orange and gold"
             },
             {
-              "explanation" : "This card is a domestic animal.",
+              "explanation" : "This card is a animal.",
               "id" : "world-animal-goldfish-kind",
               "typeID" : "kind",
-              "value" : "Domestic Animal"
+              "value" : "Animal"
             }
           ],
-          "summary" : "A domestic animal that lives in ponds and aquariums and swims with a swishy tail.",
-          "visualKey" : "🐟"
+          "summary" : "A animal that lives in ponds and aquariums and swims with a swishy tail.",
+          "visualAssetName" : "MemoryAnimalGoldfish"
         }
       ],
       "id" : "world-animals",
@@ -12116,14 +13340,14 @@
       "entities" : [
         {
           "id" : "world-bird-bird-a01",
-          "name" : "Macaw",
+          "name" : "Scarlet Macaw",
           "properties" : [
             {
-              "explanation" : "Macaw is this bird's name.",
+              "explanation" : "Scarlet Macaw is this bird's name.",
               "id" : "world-bird-bird-a01-name",
               "typeID" : "name",
-              "value" : "Macaw",
-              "visualAssetName" : "MemoryBirdA01"
+              "value" : "Scarlet Macaw",
+              "visualAssetName" : "CompareCampMacaw"
             },
             {
               "explanation" : "This bird lives in South American rainforests.",
@@ -12157,18 +13381,18 @@
             }
           ],
           "summary" : "A bird from South American rainforests with red, yellow, blue.",
-          "visualAssetName" : "MemoryBirdA01"
+          "visualAssetName" : "CompareCampMacaw"
         },
         {
           "id" : "world-bird-bird-a02",
-          "name" : "Toucan",
+          "name" : "Yellow-billed Toucan",
           "properties" : [
             {
-              "explanation" : "Toucan is this bird's name.",
+              "explanation" : "Yellow-billed Toucan is this bird's name.",
               "id" : "world-bird-bird-a02-name",
               "typeID" : "name",
-              "value" : "Toucan",
-              "visualAssetName" : "MemoryBirdA02"
+              "value" : "Yellow-billed Toucan",
+              "visualAssetName" : "MemoryBirdCleanA02"
             },
             {
               "explanation" : "This bird lives in Central and South American forests.",
@@ -12202,18 +13426,18 @@
             }
           ],
           "summary" : "A bird from Central and South American forests with black, yellow, orange.",
-          "visualAssetName" : "MemoryBirdA02"
+          "visualAssetName" : "MemoryBirdCleanA02"
         },
         {
           "id" : "world-bird-bird-a03",
-          "name" : "Cockatoo",
+          "name" : "Yellow-crested Cockatoo",
           "properties" : [
             {
-              "explanation" : "Cockatoo is this bird's name.",
+              "explanation" : "Yellow-crested Cockatoo is this bird's name.",
               "id" : "world-bird-bird-a03-name",
               "typeID" : "name",
-              "value" : "Cockatoo",
-              "visualAssetName" : "MemoryBirdA03"
+              "value" : "Yellow-crested Cockatoo",
+              "visualAssetName" : "MemoryBirdCleanA03"
             },
             {
               "explanation" : "This bird lives in Australia and nearby islands.",
@@ -12247,7 +13471,7 @@
             }
           ],
           "summary" : "A bird from Australia and nearby islands with white and yellow.",
-          "visualAssetName" : "MemoryBirdA03"
+          "visualAssetName" : "MemoryBirdCleanA03"
         },
         {
           "id" : "world-bird-bird-a04",
@@ -12258,7 +13482,7 @@
               "id" : "world-bird-bird-a04-name",
               "typeID" : "name",
               "value" : "Hummingbird",
-              "visualAssetName" : "MemoryBirdA04"
+              "visualAssetName" : "MemoryBirdCleanA04"
             },
             {
               "explanation" : "This bird lives in Tropical Americas.",
@@ -12292,7 +13516,7 @@
             }
           ],
           "summary" : "A bird from Tropical Americas with green, purple, teal.",
-          "visualAssetName" : "MemoryBirdA04"
+          "visualAssetName" : "MemoryBirdCleanA04"
         },
         {
           "id" : "world-bird-bird-a05",
@@ -12303,7 +13527,7 @@
               "id" : "world-bird-bird-a05-name",
               "typeID" : "name",
               "value" : "Blue Macaw",
-              "visualAssetName" : "MemoryBirdA05"
+              "visualAssetName" : "MemoryBirdCleanA05"
             },
             {
               "explanation" : "This bird lives in South American forests.",
@@ -12337,7 +13561,7 @@
             }
           ],
           "summary" : "A bird from South American forests with blue and gold.",
-          "visualAssetName" : "MemoryBirdA05"
+          "visualAssetName" : "MemoryBirdCleanA05"
         },
         {
           "id" : "world-bird-bird-a06",
@@ -12348,7 +13572,7 @@
               "id" : "world-bird-bird-a06-name",
               "typeID" : "name",
               "value" : "Kingfisher",
-              "visualAssetName" : "MemoryBirdA06"
+              "visualAssetName" : "MemoryBirdCleanA06"
             },
             {
               "explanation" : "This bird lives in Asian and Oceanian waterways.",
@@ -12382,7 +13606,7 @@
             }
           ],
           "summary" : "A bird from Asian and Oceanian waterways with blue and orange.",
-          "visualAssetName" : "MemoryBirdA06"
+          "visualAssetName" : "MemoryBirdCleanA06"
         },
         {
           "id" : "world-bird-bird-a07",
@@ -12393,13 +13617,13 @@
               "id" : "world-bird-bird-a07-name",
               "typeID" : "name",
               "value" : "Sunbird",
-              "visualAssetName" : "MemoryBirdA07"
+              "visualAssetName" : "MemoryBirdCleanA07"
             },
             {
-              "explanation" : "This bird lives in Gardens and woodlands in Africa and Asia.",
+              "explanation" : "This bird lives in African and Asian gardens and forests.",
               "id" : "world-bird-bird-a07-home",
               "typeID" : "home",
-              "value" : "Gardens and woodlands in Africa and Asia"
+              "value" : "African and Asian gardens and forests"
             },
             {
               "explanation" : "Look for gold, orange, brown.",
@@ -12426,8 +13650,8 @@
               "value" : "4 to 7 g"
             }
           ],
-          "summary" : "A bird from Gardens and woodlands in Africa and Asia with gold, orange, brown.",
-          "visualAssetName" : "MemoryBirdA07"
+          "summary" : "A bird from African and Asian gardens and forests with gold, orange, brown.",
+          "visualAssetName" : "MemoryBirdCleanA07"
         },
         {
           "id" : "world-bird-bird-a08",
@@ -12438,13 +13662,13 @@
               "id" : "world-bird-bird-a08-name",
               "typeID" : "name",
               "value" : "Pied Kingfisher",
-              "visualAssetName" : "MemoryBirdA08"
+              "visualAssetName" : "MemoryBirdCleanA08"
             },
             {
-              "explanation" : "This bird lives in Woodland streams in Africa and Asia.",
+              "explanation" : "This bird lives in Rivers and lakes in Africa and Asia.",
               "id" : "world-bird-bird-a08-home",
               "typeID" : "home",
-              "value" : "Woodland streams in Africa and Asia"
+              "value" : "Rivers and lakes in Africa and Asia"
             },
             {
               "explanation" : "Look for black and white.",
@@ -12453,37 +13677,37 @@
               "value" : "black and white"
             },
             {
-              "explanation" : "Its size is 18 to 22 cm long.",
+              "explanation" : "Its size is 25 to 30 cm long.",
               "id" : "world-bird-bird-a08-size",
               "typeID" : "size",
-              "value" : "18 to 22 cm long"
+              "value" : "25 to 30 cm long"
             },
             {
-              "explanation" : "It can live about 5 to 10 years.",
+              "explanation" : "It can live about Varies by individual.",
               "id" : "world-bird-bird-a08-lifespan",
               "typeID" : "lifespan",
-              "value" : "5 to 10 years"
+              "value" : "Varies by individual"
             },
             {
-              "explanation" : "It can weigh about 35 to 50 g.",
+              "explanation" : "It can weigh about Varies by individual.",
               "id" : "world-bird-bird-a08-weight",
               "typeID" : "weight",
-              "value" : "35 to 50 g"
+              "value" : "Varies by individual"
             }
           ],
-          "summary" : "A bird from Woodland streams in Africa and Asia with black and white.",
-          "visualAssetName" : "MemoryBirdA08"
+          "summary" : "A bird from Rivers and lakes in Africa and Asia with black and white.",
+          "visualAssetName" : "MemoryBirdCleanA08"
         },
         {
           "id" : "world-bird-bird-a09",
-          "name" : "Toucan",
+          "name" : "Orange-billed Toucan",
           "properties" : [
             {
-              "explanation" : "Toucan is this bird's name.",
+              "explanation" : "Orange-billed Toucan is this bird's name.",
               "id" : "world-bird-bird-a09-name",
               "typeID" : "name",
-              "value" : "Toucan",
-              "visualAssetName" : "MemoryBirdA09"
+              "value" : "Orange-billed Toucan",
+              "visualAssetName" : "MemoryBirdCleanA09"
             },
             {
               "explanation" : "This bird lives in Tropical South America.",
@@ -12517,18 +13741,18 @@
             }
           ],
           "summary" : "A bird from Tropical South America with black, white, orange.",
-          "visualAssetName" : "MemoryBirdA09"
+          "visualAssetName" : "MemoryBirdCleanA09"
         },
         {
           "id" : "world-bird-bird-a10",
-          "name" : "Parrot",
+          "name" : "Green Parrot",
           "properties" : [
             {
-              "explanation" : "Parrot is this bird's name.",
+              "explanation" : "Green Parrot is this bird's name.",
               "id" : "world-bird-bird-a10-name",
               "typeID" : "name",
-              "value" : "Parrot",
-              "visualAssetName" : "MemoryBirdA10"
+              "value" : "Green Parrot",
+              "visualAssetName" : "MemoryBirdCleanA10"
             },
             {
               "explanation" : "This bird lives in Tropical forests.",
@@ -12562,7 +13786,7 @@
             }
           ],
           "summary" : "A bird from Tropical forests with green, yellow, red.",
-          "visualAssetName" : "MemoryBirdA10"
+          "visualAssetName" : "MemoryBirdCleanA10"
         },
         {
           "id" : "world-bird-bird-a11",
@@ -12573,13 +13797,13 @@
               "id" : "world-bird-bird-a11-name",
               "typeID" : "name",
               "value" : "Palm Bird",
-              "visualAssetName" : "MemoryBirdA11"
+              "visualAssetName" : "MemoryBirdCleanA11"
             },
             {
-              "explanation" : "This bird lives in New Guinea and northern Australia.",
+              "explanation" : "This bird lives in Varies by species.",
               "id" : "world-bird-bird-a11-home",
               "typeID" : "home",
-              "value" : "New Guinea and northern Australia"
+              "value" : "Varies by species"
             },
             {
               "explanation" : "Look for charcoal and red.",
@@ -12588,26 +13812,26 @@
               "value" : "charcoal and red"
             },
             {
-              "explanation" : "Its size is 55 to 65 cm long.",
+              "explanation" : "Its size is Varies by species.",
               "id" : "world-bird-bird-a11-size",
               "typeID" : "size",
-              "value" : "55 to 65 cm long"
+              "value" : "Varies by species"
             },
             {
-              "explanation" : "It can live about 40 to 60 years.",
+              "explanation" : "It can live about Varies by species.",
               "id" : "world-bird-bird-a11-lifespan",
               "typeID" : "lifespan",
-              "value" : "40 to 60 years"
+              "value" : "Varies by species"
             },
             {
-              "explanation" : "It can weigh about 0.9 to 1.2 kg.",
+              "explanation" : "It can weigh about Varies by species.",
               "id" : "world-bird-bird-a11-weight",
               "typeID" : "weight",
-              "value" : "0.9 to 1.2 kg"
+              "value" : "Varies by species"
             }
           ],
-          "summary" : "A bird from New Guinea and northern Australia with charcoal and red.",
-          "visualAssetName" : "MemoryBirdA11"
+          "summary" : "A bird from Varies by species with charcoal and red.",
+          "visualAssetName" : "MemoryBirdCleanA11"
         },
         {
           "id" : "world-bird-bird-a12",
@@ -12618,7 +13842,7 @@
               "id" : "world-bird-bird-a12-name",
               "typeID" : "name",
               "value" : "Flamingo",
-              "visualAssetName" : "MemoryBirdA12"
+              "visualAssetName" : "CompareCampFlamingo"
             },
             {
               "explanation" : "This bird lives in Warm lakes and lagoons.",
@@ -12652,7 +13876,7 @@
             }
           ],
           "summary" : "A bird from Warm lakes and lagoons with pink and coral.",
-          "visualAssetName" : "MemoryBirdA12"
+          "visualAssetName" : "CompareCampFlamingo"
         }
       ],
       "id" : "world-birds",
